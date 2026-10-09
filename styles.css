@@ -1,0 +1,39 @@
+body{
+  background-color: peachpuff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+  font-family: 'Times New Roman', Times, serif;
+}
+a{
+  color: rgb(3, 3, 211);
+}
+nav ul{
+  background-color: sandybrown;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: seashell;
+  padding: 10px;
+}
+nav ul li{
+  list-style-type: none;
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: papayawhip;
+}
+nav ul li a{
+  text-decoration: none;
+  color: olive;
+}
+img{
+  border-radius: 30px;
+}
+div{
+  position: relative;
+  padding-bottom: 40%;
+}
